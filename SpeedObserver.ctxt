@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=speed
+comment0.target=void\ updateSpeed(int)
+comment0.text=public\ SpeedObserver(SpeedNotifier\ speedNotifier)\n\ \ \ \ {\n\ \ \ \ \ \ \ \ this.speedNotifier\ \=\ speedNotifier;\n}
+comment1.params=speed
+comment1.target=void\ showSpeed(int)
+comment2.params=
+comment2.target=void\ move()
+numComments=3
